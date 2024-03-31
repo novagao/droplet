@@ -15,7 +15,7 @@ Droplet AI ChatBot
 <img width="1215" alt="image" src="https://github.com/novagao/droplet/assets/165377322/d8ebc2d2-47da-42ed-af75-c5d8882eb170">
 
 # 开发（for开发者）
-* 第一步：下载项目仓库：`git clone https://github.com/novagao/ChatGPT-Next-Web.git`
+* 第一步：下载项目仓库：`git clone https://github.com/novagao/droplet.git`
 * 第二步：构建镜像：`bash step1_build_image.sh`
 * 第三步：构建容器：`bash step2_make_container.sh`
 * 第四步：等待一段时间后（模型下载及部署），在浏览器打开"http://localhost:3000"，即可看到AI助手，使用方法详见上文。
